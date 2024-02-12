@@ -20,9 +20,9 @@ public class MovingZeroToEnd {
                 j++;
             }
         }
-        for(int x:arr){
-            System.out.println(x);
-        }
+
+        // In O(n)
+
 
     }
 
